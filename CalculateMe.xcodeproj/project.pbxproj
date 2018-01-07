@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		17676313200289DB00EE4810 /* OperatorEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17676312200289DB00EE4810 /* OperatorEnum.swift */; };
+		1767631520028B3D00EE4810 /* CalculationStateEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1767631420028B3D00EE4810 /* CalculationStateEnum.swift */; };
 		1780E47C2001CD38004A17B2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1780E47B2001CD38004A17B2 /* AppDelegate.swift */; };
 		1780E47E2001CD38004A17B2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1780E47D2001CD38004A17B2 /* ViewController.swift */; };
 		1780E4812001CD38004A17B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1780E47F2001CD38004A17B2 /* Main.storyboard */; };
@@ -34,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		17676312200289DB00EE4810 /* OperatorEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OperatorEnum.swift; sourceTree = "<group>"; };
+		1767631420028B3D00EE4810 /* CalculationStateEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculationStateEnum.swift; sourceTree = "<group>"; };
 		1780E4782001CD38004A17B2 /* CalculateMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculateMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1780E47B2001CD38004A17B2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1780E47D2001CD38004A17B2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +107,8 @@
 				1780E4822001CD38004A17B2 /* Assets.xcassets */,
 				1780E4842001CD38004A17B2 /* LaunchScreen.storyboard */,
 				1780E4872001CD38004A17B2 /* Info.plist */,
+				17676312200289DB00EE4810 /* OperatorEnum.swift */,
+				1767631420028B3D00EE4810 /* CalculationStateEnum.swift */,
 			);
 			path = CalculateMe;
 			sourceTree = "<group>";
@@ -260,6 +266,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1780E47E2001CD38004A17B2 /* ViewController.swift in Sources */,
+				17676313200289DB00EE4810 /* OperatorEnum.swift in Sources */,
+				1767631520028B3D00EE4810 /* CalculationStateEnum.swift in Sources */,
 				1780E47C2001CD38004A17B2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
